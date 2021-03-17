@@ -2,6 +2,9 @@
 
 ## usando git y probando github
 
-## una locura
+## Sigue siendo una locura
 
 Aprendiendo lo pertinente
+Agrego un primer cambio
+
+Segundo cambio
